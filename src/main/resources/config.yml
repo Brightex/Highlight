@@ -1,0 +1,4 @@
+# Research radius, affects search time
+research_radius: 32
+# 200 tick = 10s
+glow_effect_duration : 200

@@ -1,0 +1,8 @@
+name: Highlight
+main: org.brithgtex.plugin.highlight.Highlight
+version: 1.1
+author: Brithgtex
+commands:
+    highlight:
+        description: Highlight chest containing selected object.
+        usage:

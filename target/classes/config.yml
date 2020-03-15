@@ -1,0 +1,4 @@
+# 16 will run smoothly on any server,
+research_radius: 64
+# 200 tick = 10s
+glow_effect_duration : 200
